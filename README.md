@@ -1,4 +1,3 @@
------
 <div>
   <img align="center" alt="Header" src="img/logo.jpg" />
 </div>
@@ -21,7 +20,6 @@
       <td><a href="https://www.linkedin.com/in/lorenadpaula/" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </table>
------
 </div>
 
 <div align="justify">
@@ -40,7 +38,7 @@
       <div style="display: inline_block"><br/>
          <img alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
          <img alt="spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-         <img alt="hibernate" src= " https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+         <img alt="hibernate" src= "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
          <img alt="mongodb" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
          <img alt="mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
          <img alt="javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -50,7 +48,6 @@
         <div>
       </div>
     </div>
------
 <div>
     <img height="20" alt="GIF"
       src="img/graphic.gif" />GitHub Stats:
@@ -62,7 +59,6 @@
       <img alt="GitHub Top Langs" width="200px"
         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=einfolke&theme=aura" />
     </div>
------
     <div>
       <div>
         <details>
