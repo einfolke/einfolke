@@ -25,7 +25,7 @@
 <div align="justify">
   <i><b>Olá</b>👋 Eu sou a <code>Lorena</code>, tenho 20 anos, moro em BH e  atualmente sou estudante de Engenharia de Software na PUC MINAS.</i></b>
 
-  <h2> Sobre Mim</h2>
+  <h3> Sobre Mim</h3>
     <li>Apaixonada por tecnologia e programação</li>
       <li>Foco em back-end voltada para Java</li>
        <li>Conhecimentos em alguns framework na área como: SpringBoot e Quarkus</li>
