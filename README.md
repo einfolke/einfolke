@@ -65,8 +65,9 @@
           <summary><img height="20" alt="GIF"
               src="img/spotify.gif" /> einfolke's
             Spotify Data</summary>
-          <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy"
-            alt="Data Card for Spotify">
+          <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22ffbmumrq57smcq6xjyzviva">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ffbmumrq57smcq6xjyzviva" alt="Data Card for Spotify">
+</a>
         </details>
       </div>
       <div>
