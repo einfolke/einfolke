@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Header" src="img/logo.jpg" />
+  <img align="center" alt="Header" src="img/logogit.svg" />
 </div>
 -----
 <div align="center">
