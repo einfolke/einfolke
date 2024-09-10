@@ -23,7 +23,7 @@
 </div>
 
 <div align="justify">
-  <i><b>Olá</b>👋 Eu sou a <code>Lorena</code>, tenho 20 anos, moro em BH e  atualmente sou estudante de Engenharia de Software na PUC MINAS.</i></b>
+  <i><b>Olá</b>👋 Eu sou a <code>Lorena</code>, tenho 21 anos, moro em BH e  atualmente sou estudante de Engenharia de Software na PUC MINAS.</i></b>
 
   <h3> Sobre Mim</h3>
     <li>Apaixonada por tecnologia e programação</li>
