@@ -71,8 +71,9 @@
         </details>
       </div>
       <div>
-        <img alt="Spotify" width="200px" height="270px"
-          src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22ffbmumrq57smcq6xjyzviva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ac00db&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile))" />
+        <td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22ffbmumrq57smcq6xjyzviva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+</td>
         <img alt="Spotify list" width="200px" height="270px"
           src="https://spotify-recently-played-readme.vercel.app/api?user=22ffbmumrq57smcq6xjyzviva" />
       </div>
