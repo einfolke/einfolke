@@ -72,7 +72,7 @@
       </div>
       <div>
         <img alt="Spotify" width="200px" height="270px"
-          src="https://spotify-github-profile.vercel.app/api/view?uid=22ffbmumrq57smcq6xjyzviva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+          src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22ffbmumrq57smcq6xjyzviva&unique={true|1|on|yes})" />
         &nbsp; &nbsp;
         <img alt="Spotify list" width="200px" height="270px"
           src="https://spotify-recently-played-readme.vercel.app/api?user=22ffbmumrq57smcq6xjyzviva" />
