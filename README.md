@@ -1,7 +1,3 @@
-<div>
-  <img align="center" alt="Header" src="img/logogit.svg" />
-</div>
------
 <div align="center">
   <table>
     <tr>
