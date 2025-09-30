@@ -22,7 +22,7 @@
 <h3 align="center"> 
   Sou a Lorena, tenho 22 anos, moro em Belo Horizonte e atualmente faço graduação de Engenharia de Software na <strong>PUC MINAS</strong>.<br>
   <li>Apaixonada por tecnologia e programação</li>
-      <li>Foco em desenvolvimento back-end em Java</li>
+      <li>Foco em desenvolvimento back-end em Java </li>
 </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
