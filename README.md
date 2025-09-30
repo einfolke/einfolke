@@ -49,8 +49,8 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=einfolke&locale=pt-br&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=einfolke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=einfolke&theme=swift&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einfolke&theme=swift&show_icons=true&hide_border=true&hide_title=false&layout=compact" height="150"  />
 </div>
   <div align="center">
     <img src="img/github-contribution-grid-snake-dark.svg" alt="Graph showing Lorena de Paula's GitHub contributions over time, with varying shades indicating activity levels. The graph is set against a light background, conveying a sense of progress and dedication." />
